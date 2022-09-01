@@ -1,2 +1,3 @@
 # terraform-aws-sanity-runner
-Terraform Module that deploys Sanity Runner
+
+This repository was never used. Please see [sanity runner](https://github.com/tophat/sanity-runner) instead.
